@@ -3,3 +3,7 @@ This is the master branch.
 this is a test for a new branch.
 
 test for keep modify content.
+
+This is a problem branch.
+
+We will test git stashes.
