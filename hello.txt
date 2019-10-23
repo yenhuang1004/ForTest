@@ -7,3 +7,5 @@ test for keep modify content.
 This is a problem branch.
 
 We will test git stashes.
+
+add apple1
