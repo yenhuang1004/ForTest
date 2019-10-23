@@ -9,3 +9,7 @@ This is a problem branch.
 We will test git stashes.
 
 add apple1
+
+add apple2
+
+add apple3
